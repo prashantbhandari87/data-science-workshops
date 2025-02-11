@@ -1,1 +1,1 @@
-this is an erro
+This is an error.
